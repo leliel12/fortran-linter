@@ -14,7 +14,7 @@ There are 2 ways of installing the linter. The recommended one is through pip
 
 The other way is to clone this repository and install it from the local copy:
 
-	git clone https://github.com/cphyc/fortran-syntax.git
+	git clone https://github.com/cphyc/fortran-linter.git
 	cd fortran-syntax
 	pip install .
 
